@@ -1,0 +1,304 @@
+-- Crazy Pattern (I don't know how to explain it), Forward, Backward -> Repeat
+
+while true do
+	wait(0.1)
+	script.Parent.A.Material = "Neon"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "Neon"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "Neon"
+	script.Parent.F.Material = "SmoothPlastic"
+	
+	wait(0.1)
+	
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "Neon"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "Neon"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "Neon"
+	
+	wait(0.1)
+	script.Parent.A.Material = "Neon"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "Neon"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "Neon"
+	script.Parent.F.Material = "SmoothPlastic"
+
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "Neon"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "Neon"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "Neon"
+	
+	wait(0.1)
+	script.Parent.A.Material = "Neon"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "Neon"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "Neon"
+	script.Parent.F.Material = "SmoothPlastic"
+
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "Neon"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "Neon"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "Neon"
+	
+	wait(0.1)
+	script.Parent.A.Material = "Neon"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "Neon"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "Neon"
+	script.Parent.F.Material = "SmoothPlastic"
+
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "Neon"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "Neon"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "Neon"
+	
+	wait(0.1)
+	script.Parent.A.Material = "Neon"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "Neon"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "Neon"
+	script.Parent.F.Material = "SmoothPlastic"
+
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "Neon"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "Neon"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "Neon"
+	
+	wait(0.1)
+	
+	script.Parent.A.Material = "Neon"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "SmoothPlastic"
+	
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "Neon"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "SmoothPlastic"
+	
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "Neon"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "SmoothPlastic"
+	
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "Neon"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "SmoothPlastic"
+	
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "Neon"
+	script.Parent.F.Material = "SmoothPlastic"
+	
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "Neon"
+	
+	wait(0.1)
+	
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "Neon"
+	
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "Neon"
+	script.Parent.F.Material = "SmoothPlastic"
+	
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "Neon"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "SmoothPlastic"
+	
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "Neon"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "SmoothPlastic"
+	
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "Neon"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "SmoothPlastic"
+	
+	wait(0.1)
+
+	script.Parent.A.Material = "Neon"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "SmoothPlastic"
+	
+	wait(0.1)
+	
+	script.Parent.A.Material = "Neon"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "SmoothPlastic"
+
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "Neon"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "SmoothPlastic"
+
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "Neon"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "SmoothPlastic"
+
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "Neon"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "SmoothPlastic"
+
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "Neon"
+	script.Parent.F.Material = "SmoothPlastic"
+
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "Neon"
+	
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "Neon"
+
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "Neon"
+	script.Parent.F.Material = "SmoothPlastic"
+
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "Neon"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "SmoothPlastic"
+
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "Neon"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "SmoothPlastic"
+
+	wait(0.1)
+
+	script.Parent.A.Material = "SmoothPlastic"
+	script.Parent.B.Material = "Neon"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "SmoothPlastic"
+
+	wait(0.1)
+
+	script.Parent.A.Material = "Neon"
+	script.Parent.B.Material = "SmoothPlastic"
+	script.Parent.C.Material = "SmoothPlastic"
+	script.Parent.D.Material = "SmoothPlastic"
+	script.Parent.E.Material = "SmoothPlastic"
+	script.Parent.F.Material = "SmoothPlastic"
+end
